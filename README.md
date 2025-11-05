@@ -24,6 +24,7 @@ https://colab.research.google.com/drive/1landsR_8ufPF-aty5jLpwMO0yhxpXH99?usp=sh
 predict_message("hello")
 → [0.03, "ham"]
 All FreeCodeCamp tests passed successfully ✅
+```
 
 🔧 Data
 Provided in the project:
@@ -49,3 +50,4 @@ Robust against common spam word tricks ⚡
 
 👤 Author
 Aniket Khandare
+
